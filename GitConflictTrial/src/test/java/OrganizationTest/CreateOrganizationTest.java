@@ -13,6 +13,12 @@ public class CreateOrganizationTest {
 		System.out.println("Create Organization with Product Name");
 		System.out.println("ssss");
 		System.out.println("helo");
+		
+	}
+	@Test
+	public void hello()
+	{
+		System.out.println("how a u");
 	}
 	
 
