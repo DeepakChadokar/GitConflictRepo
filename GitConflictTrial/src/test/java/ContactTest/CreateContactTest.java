@@ -13,5 +13,10 @@ public class CreateContactTest {
 	public void createContactWithOrganization() {
 		System.out.println("Create Contact with Organization Name");
 	}
+	
+	@Test
+	public void deleteModule() {
+		System.out.println("dlete");
+	}
 
 }
