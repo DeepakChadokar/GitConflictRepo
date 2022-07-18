@@ -13,5 +13,10 @@ public class CreateCampaignTest {
 	public void createCampaignWithProduct() {
 		System.out.println("Create Campaign with Product Name");
 	}
+	
+	@Test
+	public void delete() {
+		System.out.println("delete is done ");
+	}
 
 }
