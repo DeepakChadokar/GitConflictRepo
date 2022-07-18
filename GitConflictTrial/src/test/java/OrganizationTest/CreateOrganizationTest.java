@@ -21,6 +21,8 @@ public class CreateOrganizationTest {
 		System.out.println("how a u");
 		System.out.println("ooooo mg");
 	}
-	
-
+	@Test
+	public void Reddy() {
+System.out.println("create organisation by reddy");
+}
 }
