@@ -15,8 +15,11 @@ public class CreateContactTest {
 	}
 	
 	@Test
-	public void deleteModule() {
-		System.out.println("dlete");
+	public void deleteModule123() {
+		System.out.println("dlete ");
 	}
-
+@Test
+public void add() {
+	System.out.println("new changes ");
+}
 }
