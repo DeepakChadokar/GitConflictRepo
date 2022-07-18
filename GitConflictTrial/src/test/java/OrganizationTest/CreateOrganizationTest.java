@@ -19,6 +19,7 @@ public class CreateOrganizationTest {
 	public void hello()
 	{
 		System.out.println("how a u");
+		System.out.println("ooooo mg");
 	}
 	
 
