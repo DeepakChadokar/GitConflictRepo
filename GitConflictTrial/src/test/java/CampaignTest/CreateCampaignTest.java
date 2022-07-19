@@ -12,6 +12,7 @@ public class CreateCampaignTest {
 	@Test
 	public void createCampaignWithProduct() {
 		System.out.println("Create Campaign with Product Name");
+		System.out.println("star");
 	}
 
 }
